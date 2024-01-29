@@ -20,11 +20,7 @@ know everything in advance and that these details might change later). Answer
 questions like the ones below, but feel free to add more information:
 a. What does your database schema look like?
 
-User         Score             Comments         Info page             User activity (link table)
-id           id                id               id                    user_id  
-username     score             comment          name                  score_id
-password                       username         type                  comment_id
-                                                                      info_id
+https://dbdiagram.io/d/65b7d96cac844320aef790df
 
 b. What kinds of issues might you run into with your API?
 
