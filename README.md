@@ -43,10 +43,10 @@ Register -> Login -> Search for info page -> Add score/comments -> Home page sho
 f. What features make your site more than CRUD? Do you have any stretch
 goals?
 
-Maybe add a quiz before user sign up to make sure it's a true studio ghibli fan. Randomly selects a film in the database and asks a question.
-Adding a CAPTCHA
-Finding a way to generate images on each info page based on what is searched 
-Being able to reply to specific users rather than just listing comments 
-Adding thumbs up/thumbs down to comments, home page rankings, etc
+Maybe add a quiz before user sign up to make sure it's a true studio ghibli fan. Randomly selects a film in the database and asks a question.  
+Adding a CAPTCHA  
+Finding a way to generate images on each info page based on what is searched  
+Being able to reply to specific users rather than just listing comments  
+Adding thumbs up/thumbs down to comments, home page rankings, etc  
 
 
